@@ -30,9 +30,9 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 ### Preprocessing & Augmentation
 
-(1) I resized all pictures to 224x224 pixels 
+(1) I resized all pictures to 224 × 224 pixels,
 
-(2) Used the min-max normalization method to rescale all pixel values [0, 1]
+(2) Used the min-max normalization method to rescale all pixel values [0, 1],
 
 (3) In addition, I employed photo augmentation for solving the issue of a short dataset and to improve the accuracy rate while limiting model overfitting. Because the data is limited, the data augmentation approach is utilized for training the model in an optimum manner while avoiding overfitting. In the image generator for augmentation.
 
