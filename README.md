@@ -82,4 +82,4 @@ Demonstrated how to use chest imaging to classify COVID and other lung-related i
 
 ### Authors Infos
 - LinkedIn: [ovisarkar1610052](https://www.linkedin.com/in/ovisarkar1610052/)
-- ResearchGate: [ovisarkar](https://www.researchgate.net/profile/Ovi-Sarkar)
+- ResearchGate: [Ovi Sarkar](https://www.researchgate.net/profile/Ovi-Sarkar)
