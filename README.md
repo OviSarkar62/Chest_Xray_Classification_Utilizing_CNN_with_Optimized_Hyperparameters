@@ -78,7 +78,7 @@ Demonstrated how to use chest imaging to classify COVID and other lung-related i
 
 ---
 ### Publication
-[An Empirical Model of Classifying Lung Affected Diseases to Detect COVID-19 Using Chest X-ray Employing Convolutional Neural Architecture](https://ieeexplore.ieee.org/abstract/document/9936762)
+**[An Empirical Model of Classifying Lung Affected Diseases to Detect COVID-19 Using Chest X-ray Employing Convolutional Neural Architecture](https://ieeexplore.ieee.org/abstract/document/9936762)**
 
 ### Author's Info
 - **LinkedIn: [ovisarkar1610052](https://www.linkedin.com/in/ovisarkar1610052/)**
