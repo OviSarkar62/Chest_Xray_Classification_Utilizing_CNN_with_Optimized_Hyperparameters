@@ -1,4 +1,4 @@
-# Chest_X-ray_Classification_Utilizing_CNN_with_Optimized_Hyperparameters
+# Chest_Xray_Classification_Utilizing_CNN_with_Optimized_Hyperparameters
 
 This study presents a deep learning algorithm developed from the ground up to categorize as well as confirm the existence of COVID in a set of X-ray imaging data. We designed a CNN architecture from the ground up to retrieve elements from provided X-ray data to categorize them and identify the individual contaminated with COVID. 
 
@@ -72,3 +72,6 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
   <br>
     <em>Fig: Heatmap Visualization Using GradCAM</em>
 </p>
+
+### Conclusion
+I have demonstrated how to use chest imaging to classify COVID and other lung-related illnesses. I have developed our architecture from scratch and distinguished it from different approaches. This study will improve the health of at-risk individuals in the polluted area primarily affected by lung diseases. It will help the medical sector determine the conditions by analyzing the affected area of the chest x-ray. 
