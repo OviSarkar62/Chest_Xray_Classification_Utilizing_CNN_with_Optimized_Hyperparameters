@@ -59,3 +59,9 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
     <em>Fig: Training and Validation Graph</em>
 </p>
 
+- **Confusion Matrix**
+<p align="center">
+  <img alt="img-name" src="https://user-images.githubusercontent.com/72793142/209853100-9736fa73-9073-42b1-aa51-8c9c55ff888f.png" width="300">
+  <br>
+    <em>Fig: Connfusion Matrix</em>
+</p>
