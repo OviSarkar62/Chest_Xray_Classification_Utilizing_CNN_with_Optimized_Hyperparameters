@@ -40,6 +40,11 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 ![Proposed](https://user-images.githubusercontent.com/72793142/209836307-cf9c1581-9348-4603-96aa-b638a08e43a7.png)
                                              
-                                             Figure: Process Flow-graph of the Proposed System
+                                        Figure: Process Flow-graph of the Proposed System
+   
+![Schematic](https://user-images.githubusercontent.com/72793142/209837008-bf1c2931-101d-4918-89f4-93131ee7b4f1.png)
+
+                              Figure: Schematic Block-diagram of the Convolutional Neural Architecture
+
 
 
