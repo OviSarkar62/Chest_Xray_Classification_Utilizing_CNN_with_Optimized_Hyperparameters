@@ -21,7 +21,9 @@ The earlier detection and accurate diagnosis of COVID seem to be a global proble
 Any deep neural architecture work needs a vast amount of data as input. An appropriate cluster of data aids in better analyzing a Deep learning challenge. We gathered data for our issue set mostly from three separate and well-known web sources. The following public datasets were used in this study: 
 
 (1) COVID-19 Radiography Database [9], 
+
 (2) Curated Dataset for COVID-19 [10], and 
+
 (3) NIH Chest X-ray Multiclassification Dataset [11].
 
 The Database [9] is used to compile chest X-rays of COVID-19 positive pictures and normal images. Images of bacterial pneumonia are sourced from the Dataset [10]. Furthermore, photos of pneumothorax are obtained from the Dataset [11]. The subset of X-ray imagery is built using the datasets to identify and assess the efficiency of the suggested CNN model architecture. 
