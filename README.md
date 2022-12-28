@@ -1,6 +1,6 @@
 # Chest_Xray_Classification_Utilizing_CNN_with_Optimized_Hyperparameters
 
-This study presents a deep learning algorithm developed from the ground up to categorize as well as confirm the existence of COVID in a set of X-ray imaging data. We designed a CNN architecture from the ground up to retrieve elements from provided X-ray data to categorize them and identify the individual contaminated with COVID. Our strategy may aid in mitigating the consistency issues while working with medical data. In contrast to some other classifying activities with a large enough image database, obtaining large Xray datasets for this classification job is challenging. So, we applied multiple data enhancement techniques to maximize the accurateness, achieving a significant accuracy of 97.50 percent.
+This study presents a deep learning algorithm developed from the ground up to categorize as well as confirm the existence of COVID in a set of X-ray imaging data. We designed a CNN architecture from the ground up to retrieve elements from provided X-ray data to categorize them and identify the individual contaminated with COVID. 
 
 ### Table of Contents
 
