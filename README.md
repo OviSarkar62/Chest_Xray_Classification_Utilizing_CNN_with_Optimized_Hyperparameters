@@ -42,5 +42,6 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 (c) Finally, the horizontal flip is used to flip photos horizontally.
 
+### Proposed Architecture
 
 
