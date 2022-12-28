@@ -34,13 +34,7 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 (2) Used the min-max normalization method to rescale all pixel values [0, 1]
 
-(3) In addition, I employed photo augmentation for solving the issue of a short dataset and to improve the accuracy rate while limiting model overfitting. Because the data is limited, the data augmentation approach is utilized for training the model in an optimum manner while avoiding overfitting. In the image generator for augmentation,
-
-(a) the sample-wise center is employed first to make the single image’s mean pixel value zero. 
-
-(b) Following that, sample-wise standard deviation normalization is performed to partition pictures based on their associated value. 
-
-(c) Finally, the horizontal flip is used to flip photos horizontally.
+(3) In addition, I employed photo augmentation for solving the issue of a short dataset and to improve the accuracy rate while limiting model overfitting. Because the data is limited, the data augmentation approach is utilized for training the model in an optimum manner while avoiding overfitting. In the image generator for augmentation.
 
 ### Proposed Architecture
 
