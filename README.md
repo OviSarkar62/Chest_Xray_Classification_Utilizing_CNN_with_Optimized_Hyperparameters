@@ -39,7 +39,7 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 ### Proposed Architecture
 
 <p align="center">
-  <img alt="img-name" src="https://user-images.githubusercontent.com/72793142/209853172-e30766d2-18fd-40ba-8b6c-8f032b95c748.png" width="1000">
+  <img alt="img-name" src="https://user-images.githubusercontent.com/72793142/209853172-e30766d2-18fd-40ba-8b6c-8f032b95c748.png" width="800">
   <br>
     <em>Fig: Schematic Block-diagram of the Convolutional Neural Architecture</em>
 </p>
@@ -54,7 +54,7 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 - **Learning Curve**
 <p align="center">
-  <img alt="img-name" src="https://user-images.githubusercontent.com/72793142/209853161-95145f03-fed7-4c79-8c6b-2c5f68d5bbf0.png" width="700">
+  <img alt="img-name" src="https://user-images.githubusercontent.com/72793142/209853161-95145f03-fed7-4c79-8c6b-2c5f68d5bbf0.png" width="400">
   <br>
     <em>Fig: Training and Validation Graph</em>
 </p>
@@ -64,4 +64,10 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
   <img alt="img-name" src="https://user-images.githubusercontent.com/72793142/209853100-9736fa73-9073-42b1-aa51-8c9c55ff888f.png" width="300">
   <br>
     <em>Fig: Connfusion Matrix</em>
+</p>
+- **GradCAM**
+<p align="center">
+  <img alt="img-name" src="https://user-images.githubusercontent.com/72793142/209853138-f4bc1d6c-1ae1-4d17-8895-77e751eb31c7.png" width="300">
+  <br>
+    <em>Fig: Heatmap Visualization Using GradCAM</em>
 </p>
