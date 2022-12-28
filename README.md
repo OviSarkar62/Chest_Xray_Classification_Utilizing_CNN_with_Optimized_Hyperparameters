@@ -20,7 +20,7 @@ The earlier detection and accurate diagnosis of COVID seem to be a global proble
 
 Any deep neural architecture work needs a vast amount of data as input. An appropriate cluster of data aids in better analyzing a Deep learning challenge. We gathered data for our issue set mostly from three separate and well-known web sources. The following public datasets were used in this study: 
 
-(1) COVID-19 Radiography Database [9], 
+(1) https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
 (2) Curated Dataset for COVID-19 [10], and 
 
