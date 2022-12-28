@@ -1,1 +1,1 @@
-# CNN-CXR
+# Chest_Xray_Classification_Utilizing_CNN_with_Optimized_Hyperparameters
