@@ -18,7 +18,7 @@ This study presents a deep learning algorithm developed from the ground up to ca
 
 ### Dataset Description
 
-Any deep neural architecture work needs a vast amount of data as input. An appropriate cluster of data aids in better analyzing a Deep learning challenge. We gathered data for our issue set mostly from three separate and well-known web sources. The following public datasets were used in this study: 
+The following public datasets were used in this study: 
 
 (1) https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
@@ -26,7 +26,7 @@ Any deep neural architecture work needs a vast amount of data as input. An appro
 
 (3) https://www.kaggle.com/datasets/nih-chest-xrays/data
 
-The first Database is used to compile chest X-rays of COVID-19 positive pictures and normal images. Images of bacterial pneumonia are sourced from the second Dataset. Furthermore, photos of pneumothorax are obtained from the third Dataset. The subset of X-ray imagery is built using the datasets to identify and assess the efficiency of the suggested CNN model architecture. 
+The first Database is used to compile chest X-rays of COVID-19 positive pictures and normal images. Images of bacterial pneumonia are sourced from the second Dataset. Furthermore, photos of pneumothorax are obtained from the third Dataset. 
 
 ### Preprocessing & Augmentation
 
