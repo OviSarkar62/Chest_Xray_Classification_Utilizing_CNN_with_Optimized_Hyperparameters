@@ -48,6 +48,6 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 ## Tech/Stacks
 
-*Python
+⋅⋅* Python
 
-*Keras/TensorFlow
+⋅⋅* Keras/TensorFlow
