@@ -1,6 +1,6 @@
 # Chest_Xray_Classification_Utilizing_CNN_with_Optimized_Hyperparameters
 
-This study presents a deep learning algorithm developed from the ground up to categorize as well as confirm the existence of COVID in a set of X-ray imaging data. We designed a CNN architecture from the ground up to retrieve elements from provided X-ray data to categorize them and identify the individual contaminated with COVID. 
+This study presents a deep learning algorithm developed from the ground up to categorize as well as confirm the existence of COVID in a set of X-ray imaging data. Designed a CNN architecture from the ground up to retrieve elements from provided X-ray data to categorize them and identify the individual contaminated with COVID. 
 
 ## Table of Contents
 
@@ -30,11 +30,11 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 ### Preprocessing & Augmentation
 
-- I resized all pictures to 224 × 224 pixels,
+- Resized all pictures to 224 × 224 pixels,
 
 - Used the min-max normalization method to rescale all pixel values [0, 1],
 
-- In addition, I employed photo augmentation for solving the issue of a short dataset and to improve the accuracy rate while limiting model overfitting. 
+- Employed photo augmentation for solving the issue of a short dataset and to improve the accuracy rate while limiting model overfitting. 
 
 ### Proposed Architecture
 
@@ -74,7 +74,7 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 </p>
 
 ### Conclusion
-I have demonstrated how to use chest imaging to classify COVID and other lung-related illnesses. I have developed our architecture from scratch and distinguished it from different approaches. This study will improve the health of at-risk individuals in the polluted area primarily affected by lung diseases. It will help the medical sector determine the conditions by analyzing the affected area of the chest x-ray. 
+Demonstrated how to use chest imaging to classify COVID and other lung-related illnesses. Developed this architecture from scratch and distinguished it from different approaches. This study will improve the health of at-risk individuals in the polluted area primarily affected by lung diseases. It will help the medical sector determine the conditions by analyzing the affected area of the chest x-ray. 
 
 ---
 ### Publication
