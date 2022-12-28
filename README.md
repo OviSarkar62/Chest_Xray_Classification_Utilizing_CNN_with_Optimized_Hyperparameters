@@ -54,7 +54,7 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 - **Train & Validation Accuracy**
 <p align="center">
-  <img alt="img-name" src="Images/Accuracy.png" width="600">
+  <img alt="img-name" src="Images/T-V-Accuracy.png" width="600">
   <br>
     <em>Fig: Training and Validation Accuracy</em>
 </p>
