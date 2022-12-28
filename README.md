@@ -4,8 +4,15 @@ The earlier detection and accurate diagnosis of COVID seem to be a global proble
 
 ### Table of Contents
 (1) Dataset Description
+
 (2) Preprocessing & Augmentation
+
 (3) Proposed Architecture
+
 (4) Tech/Stacks
+
 (5) Result 
+
 (6) Conclusion
+
+
