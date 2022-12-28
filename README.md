@@ -22,9 +22,9 @@ Any deep neural architecture work needs a vast amount of data as input. An appro
 
 (1) https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
-(2) Curated Dataset for COVID-19 [10], and 
+(2) https://data.mendeley.com/datasets/9xkhgts2s6
 
-(3) NIH Chest X-ray Multiclassification Dataset [11].
+(3) https://www.kaggle.com/datasets/nih-chest-xrays/data
 
-The Database [9] is used to compile chest X-rays of COVID-19 positive pictures and normal images. Images of bacterial pneumonia are sourced from the Dataset [10]. Furthermore, photos of pneumothorax are obtained from the Dataset [11]. The subset of X-ray imagery is built using the datasets to identify and assess the efficiency of the suggested CNN model architecture. 
+The first Database is used to compile chest X-rays of COVID-19 positive pictures and normal images. Images of bacterial pneumonia are sourced from the second Dataset. Furthermore, photos of pneumothorax are obtained from the third Dataset. The subset of X-ray imagery is built using the datasets to identify and assess the efficiency of the suggested CNN model architecture. 
 
