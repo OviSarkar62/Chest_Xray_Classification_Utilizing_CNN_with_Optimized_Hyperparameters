@@ -20,11 +20,11 @@ This study presents a deep learning algorithm developed from the ground up to ca
 
 The following public datasets were used in this study: 
 
-(1) https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+(1) _https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database_
 
-(2) https://data.mendeley.com/datasets/9xkhgts2s6
+(2) _https://data.mendeley.com/datasets/9xkhgts2s6_
 
-(3) https://www.kaggle.com/datasets/nih-chest-xrays/data
+(3) _https://www.kaggle.com/datasets/nih-chest-xrays/data_
 
 The first Database is used to compile chest X-rays of COVID-19 positive pictures and normal images. Images of bacterial pneumonia are sourced from the second Dataset. Furthermore, photos of pneumothorax are obtained from the third Dataset. 
 
