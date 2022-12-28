@@ -4,17 +4,17 @@ This study presents a deep learning algorithm developed from the ground up to ca
 
 ### Table of Contents
 
-(1) Dataset Description
+(1) **Dataset Description**
 
-(2) Preprocessing & Augmentation
+(2) **Preprocessing & Augmentation**
 
-(3) Proposed Architecture
+(3) **Proposed Architecture**
 
-(4) Tech/Stacks
+(4) **Tech/Stacks**
 
-(5) Result 
+(5) **Result** 
 
-(6) Conclusion
+(6) **Conclusion**
 
 ### Dataset Description
 
@@ -30,11 +30,11 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 ### Preprocessing & Augmentation
 
--I resized all pictures to 224 × 224 pixels,
+- I resized all pictures to 224 × 224 pixels,
 
--Used the min-max normalization method to rescale all pixel values [0, 1],
+- Used the min-max normalization method to rescale all pixel values [0, 1],
 
--In addition, I employed photo augmentation for solving the issue of a short dataset and to improve the accuracy rate while limiting model overfitting. 
+- In addition, I employed photo augmentation for solving the issue of a short dataset and to improve the accuracy rate while limiting model overfitting. 
 
 ### Proposed Architecture
 
