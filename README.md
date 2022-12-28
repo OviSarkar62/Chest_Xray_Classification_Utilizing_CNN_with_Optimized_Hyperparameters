@@ -65,6 +65,7 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
   <br>
     <em>Fig: Connfusion Matrix</em>
 </p>
+
 - **GradCAM**
 <p align="center">
   <img alt="img-name" src="https://user-images.githubusercontent.com/72793142/209853138-f4bc1d6c-1ae1-4d17-8895-77e751eb31c7.png" width="300">
