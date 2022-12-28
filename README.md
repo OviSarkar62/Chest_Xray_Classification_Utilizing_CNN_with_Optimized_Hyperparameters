@@ -75,3 +75,11 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 ### Conclusion
 I have demonstrated how to use chest imaging to classify COVID and other lung-related illnesses. I have developed our architecture from scratch and distinguished it from different approaches. This study will improve the health of at-risk individuals in the polluted area primarily affected by lung diseases. It will help the medical sector determine the conditions by analyzing the affected area of the chest x-ray. 
+
+---
+### Publication
+[An Empirical Model of Classifying Lung Affected Diseases to Detect COVID-19 Using Chest X-ray Employing Convolutional Neural Architecture](https://ieeexplore.ieee.org/abstract/document/9936762)
+
+### Authors Infos
+- LinkedIn: [ovisarkar1610052](https://www.linkedin.com/in/ovisarkar1610052/)
+- ResearchGate: [ovisarkar](https://www.researchgate.net/profile/Ovi-Sarkar)
