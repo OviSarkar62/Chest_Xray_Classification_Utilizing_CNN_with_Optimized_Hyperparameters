@@ -46,11 +46,11 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
                               Figure: Schematic Block-diagram of the Convolutional Neural Architecture
 
-## Tech/Stacks
+### Tech/Stacks
 
 - **Python**
 
 - **Keras/TensorFlow**
 
-## Result
+### Result
 
