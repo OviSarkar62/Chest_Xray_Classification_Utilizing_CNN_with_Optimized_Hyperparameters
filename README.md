@@ -38,4 +38,7 @@ The first Database is used to compile chest X-rays of COVID-19 positive pictures
 
 ### Proposed Architecture
 
+![Proposed](https://user-images.githubusercontent.com/72793142/209836307-cf9c1581-9348-4603-96aa-b638a08e43a7.png)
+                                             Figure: Process Flow-graph of the Proposed System
+
 
